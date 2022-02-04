@@ -12,7 +12,7 @@ git checkout -b [nome branch]
 
 Criar uma org scratch:
 ```
-sfdx force:org:create -d [dias de validade da org] -a [nome org scratch] -v [nome org devhub]
+sfdx force:org:create -d [dias de validade da org] -a [nome org scratch] -v [nome org devhub] -f config/project-scratch-def.json 
 ```
 
 Implantar os componentes na org scratch:
