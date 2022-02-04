@@ -1,0 +1,4 @@
+.sfdx/sfdx-config.json
+.sfdx/orgs/test-cx9klagnwhnj@example.com/maxRevision.json
+.sfdx/orgs/test-cx9klagnwhnj@example.com/sourcePathInfos.json
+.vscode/settings.json

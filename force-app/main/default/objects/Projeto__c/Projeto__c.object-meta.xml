@@ -156,9 +156,8 @@
     <gender>Masculine</gender>
     <label>Projeto</label>
     <nameField>
-        <displayFormat>P-{000000}</displayFormat>
-        <label>Cod. Projeto</label>
-        <type>AutoNumber</type>
+        <label>Nome do Projeto</label>
+        <type>Text</type>
     </nameField>
     <pluralLabel>Projetos</pluralLabel>
     <searchLayouts/>
