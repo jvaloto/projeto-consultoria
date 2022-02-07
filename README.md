@@ -33,4 +33,4 @@ sfdx force:source:pull -f
 Selecionar os arquivos para commit e adicionar no stage.  
 Adicionar o comentário do commit + close #numero_issue.  
 Enviar push.  
-Solciitar pull request.  
+Solicitar pull request.  
